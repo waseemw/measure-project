@@ -1,0 +1,2583 @@
+[
+  {
+    "result": "Başarılı",
+    "message": "RAW comamnd sent",
+    "imei": "866833040898089",
+    "secondsDelay": 0.11,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000037",
+      "status": "AVAILABLE",
+      "trip": null
+    }
+  },
+  {
+    "result": "Başarılı",
+    "message": "RAW comamnd sent",
+    "imei": "866833040867779",
+    "secondsDelay": 0.057,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE",
+      "trip": null
+    }
+  },
+  {
+    "result": "Başarılı",
+    "message": "RAW comamnd sent",
+    "imei": "866833040897800",
+    "secondsDelay": 0.035,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 41012,
+        "gy": 28649
+      },
+      "power": 89,
+      "locked": true,
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000194",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041009470",
+    "secondsDelay": 29.148,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000003",
+      "status": "AVAILABLE",
+      "cableLocked": true
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040964287",
+    "secondsDelay": 29.148,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 79,
+      "locked": false,
+      "speedMode": "NORMAL",
+      "cableLocked": false,
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040940154",
+    "secondsDelay": 29.145,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040852334",
+    "secondsDelay": 29.143,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "speedMode": "NORMAL"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041003333",
+    "secondsDelay": 29.144,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000032"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040975184",
+    "secondsDelay": 29.148,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 100,
+      "locked": true,
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000015"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040896117",
+    "secondsDelay": 29.145,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040996446",
+    "secondsDelay": 29.144,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 29,
+      "locked": true,
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000004"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040939990",
+    "secondsDelay": 29.146,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 17,
+      "locked": true,
+      "cableLocked": true,
+      "status": "AVAILABLE",
+      "speedMode": "NORMAL"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041010510",
+    "secondsDelay": 29.144,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040898899",
+    "secondsDelay": 29.144,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 87,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040895937",
+    "secondsDelay": 29.147,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 100,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040990233",
+    "secondsDelay": 29.147,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": true,
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041009264",
+    "secondsDelay": 29.146,
+    "scooterInfo": {
+      "locked": true,
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "trip": null,
+      "status": "MAINTENANCE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041010874",
+    "secondsDelay": 29.146,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false,
+      "status": "ONTRIP",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040888676",
+    "secondsDelay": 29.145,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000016",
+      "status": "AVAILABLE",
+      "cableLocked": false,
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040918366",
+    "secondsDelay": 29.446,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041009033",
+    "secondsDelay": 29.447,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 87,
+      "locked": true,
+      "speedMode": "NORMAL"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040865468",
+    "secondsDelay": 29.445,
+    "scooterInfo": {}
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040980069",
+    "secondsDelay": 29.445,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28769
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "speedMode": "SLOW"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041008092",
+    "secondsDelay": 29.446,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 66,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040974831",
+    "secondsDelay": 29.446,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041008803",
+    "secondsDelay": 29.447,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 100,
+      "locked": true,
+      "cableLocked": true,
+      "status": "AVAILABLE",
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000012"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040874049",
+    "secondsDelay": 29.445,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "status": "AVAILABLE",
+      "speedMode": "NORMAL"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040891225",
+    "secondsDelay": 29.445,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40999,
+        "gy": 28776
+      },
+      "power": 100,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041033504",
+    "secondsDelay": 29.444,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 95,
+      "locked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE",
+      "cableLocked": false
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040852268",
+    "secondsDelay": 29.444,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 100,
+      "locked": true,
+      "status": "AVAILABLE",
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000033"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041008373",
+    "secondsDelay": 29.443,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000056",
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040852235",
+    "secondsDelay": 29.443,
+    "scooterInfo": {
+      "status": "AVAILABLE",
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 81,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040980549",
+    "secondsDelay": 29.443,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000048"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040940014",
+    "secondsDelay": 29.442,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 85,
+      "locked": true,
+      "speedMode": "NORMAL"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041008233",
+    "secondsDelay": 29.445,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 32,
+      "locked": true,
+      "status": "AVAILABLE",
+      "speedMode": "NORMAL",
+      "cableLocked": false
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040996834",
+    "secondsDelay": 29.441,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "status": "FREE-MODE",
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000058",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040992122",
+    "secondsDelay": 29.442,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 100,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false,
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040944107",
+    "secondsDelay": 29.439,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 9,
+      "locked": true,
+      "cableLocked": true
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040916881",
+    "secondsDelay": 29.439,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false,
+      "status": "FREE-MODE",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041007896",
+    "secondsDelay": 29.438,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000074"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040981570",
+    "secondsDelay": 29.438,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false,
+      "status": "ONTRIP",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040977115",
+    "secondsDelay": 29.44,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000070",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040900174",
+    "secondsDelay": 29.439,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041003796",
+    "secondsDelay": 29.441,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 88,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": true
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040993153",
+    "secondsDelay": 29.44,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false,
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041008118",
+    "secondsDelay": 29.441,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28771
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000006",
+      "status": "AVAILABLE",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040952092",
+    "secondsDelay": 29.437,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28771
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041003911",
+    "secondsDelay": 29.436,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40979,
+        "gy": 28709
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "status": "ONTRIP",
+      "cableLocked": false,
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040981612",
+    "secondsDelay": 29.435,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041003358",
+    "secondsDelay": 29.436,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 64,
+      "locked": false,
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000075"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041010643",
+    "secondsDelay": 29.438,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE",
+      "trip": null,
+      "cableLocked": true
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041008019",
+    "secondsDelay": 29.435,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 100,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false,
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040872688",
+    "secondsDelay": 29.437,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 86,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041001808",
+    "secondsDelay": 29.433,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 29,
+      "locked": true,
+      "cableLocked": false
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040897735",
+    "secondsDelay": 29.433,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 100,
+      "locked": false,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040979582",
+    "secondsDelay": 29.431,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40990,
+        "gy": 28770
+      },
+      "power": 71,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041002764",
+    "secondsDelay": 29.432,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041007771",
+    "secondsDelay": 29.434,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 100,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false,
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040972306",
+    "secondsDelay": 29.433,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "ONTRIP",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040897982",
+    "secondsDelay": 29.434,
+    "scooterInfo": {
+      "status": "AVAILABLE",
+      "locked": true,
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 100,
+      "speedMode": "NORMAL",
+      "cableLocked": false
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040867852",
+    "secondsDelay": 29.431,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 29,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false,
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040944255",
+    "secondsDelay": 29.431,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 100,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040993245",
+    "secondsDelay": 29.434,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040980424",
+    "secondsDelay": 29.429,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 63,
+      "locked": true,
+      "speedMode": "NORMAL"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040972512",
+    "secondsDelay": 29.428,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28771
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040980010",
+    "secondsDelay": 29.429,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 30,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040939735",
+    "secondsDelay": 29.43,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false,
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040940055",
+    "secondsDelay": 29.43,
+    "scooterInfo": {}
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041009751",
+    "secondsDelay": 29.431,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40991,
+        "gy": 28770
+      },
+      "power": 100,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040997204",
+    "secondsDelay": 29.427,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28771
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040972538",
+    "secondsDelay": 29.427,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 67,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false,
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040981539",
+    "secondsDelay": 29.426,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041008639",
+    "secondsDelay": 29.427,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 71,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false,
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041004141",
+    "secondsDelay": 29.424,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000121",
+      "status": "AVAILABLE",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041004075",
+    "secondsDelay": 29.425,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 70,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040979343",
+    "secondsDelay": 29.422,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 88,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000126",
+      "cableLocked": false,
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040993005",
+    "secondsDelay": 29.425,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 21,
+      "locked": true,
+      "cableLocked": false
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040953835",
+    "secondsDelay": 29.422,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 8,
+      "locked": true,
+      "speedMode": "NORMAL"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040942507",
+    "secondsDelay": 29.423,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000119"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040888734",
+    "secondsDelay": 29.423,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040987015",
+    "secondsDelay": 29.421,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40990,
+        "gy": 28771
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041008829",
+    "secondsDelay": 29.421,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 65,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040980556",
+    "secondsDelay": 29.421,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 25,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false,
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041008605",
+    "secondsDelay": 29.425,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false,
+      "status": "ONTRIP",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041009108",
+    "secondsDelay": 29.421,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000122",
+      "status": "AVAILABLE",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040972579",
+    "secondsDelay": 29.421,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 100,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041003465",
+    "secondsDelay": 29.42,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28769
+      },
+      "power": 100,
+      "locked": true,
+      "speedMode": "SLOW",
+      "status": "AVAILABLE",
+      "cableLocked": false
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041007912",
+    "secondsDelay": 29.42,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "speedMode": "NORMAL"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040992924",
+    "secondsDelay": 29.422,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041013233",
+    "secondsDelay": 29.417,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000139",
+      "cableLocked": true,
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040900190",
+    "secondsDelay": 29.417,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 5,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040844406",
+    "secondsDelay": 29.42,
+    "scooterInfo": {
+      "status": "AVAILABLE",
+      "gPos": {
+        "gx": 40989,
+        "gy": 28771
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041002921",
+    "secondsDelay": 29.418,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "SLOW",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040897784",
+    "secondsDelay": 29.416,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000154"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040897701",
+    "secondsDelay": 29.42,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28771
+      },
+      "power": 66,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": true
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040992668",
+    "secondsDelay": 29.42,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041012862",
+    "secondsDelay": 29.42,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 100,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false,
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040992585",
+    "secondsDelay": 29.418,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40999,
+        "gy": 28776
+      },
+      "power": 100,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040964261",
+    "secondsDelay": 29.419,
+    "scooterInfo": {
+      "status": "AVAILABLE",
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 100,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040976976",
+    "secondsDelay": 29.42,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28782
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE",
+      "trip": null,
+      "cableLocked": false
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040949858",
+    "secondsDelay": 29.417,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": true,
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040897610",
+    "secondsDelay": 29.419,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040975911",
+    "secondsDelay": 29.419,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40990,
+        "gy": 28771
+      },
+      "power": 37,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040865245",
+    "secondsDelay": 29.418,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 100,
+      "locked": true,
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000162"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040880715",
+    "secondsDelay": 29.418,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000170"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041007607",
+    "secondsDelay": 29.42,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40990,
+        "gy": 28769
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040940808",
+    "secondsDelay": 29.417,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041009371",
+    "secondsDelay": 29.419,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 73,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040974815",
+    "secondsDelay": 29.419,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE",
+      "cableLocked": false,
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040911676",
+    "secondsDelay": 29.42,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE",
+      "cableLocked": false,
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040944297",
+    "secondsDelay": 29.417,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 100,
+      "locked": true,
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000175"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040993013",
+    "secondsDelay": 29.42,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041009389",
+    "secondsDelay": 29.42,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041004166",
+    "secondsDelay": 29.42,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40999,
+        "gy": 28776
+      },
+      "power": 20,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040970292",
+    "secondsDelay": 29.419,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040979483",
+    "secondsDelay": 29.419,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 69,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000169",
+      "status": "AVAILABLE",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041003242",
+    "secondsDelay": 29.418,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE",
+      "cableLocked": false,
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040868157",
+    "secondsDelay": 29.418,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 100,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040993138",
+    "secondsDelay": 29.417,
+    "scooterInfo": {
+      "status": "AVAILABLE",
+      "locked": true,
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "speedMode": "NORMAL",
+      "cableLocked": false
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040975143",
+    "secondsDelay": 29.418,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040852425",
+    "secondsDelay": 29.418,
+    "scooterInfo": {
+      "status": "AVAILABLE",
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040897834",
+    "secondsDelay": 29.417,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40999,
+        "gy": 28776
+      },
+      "power": 100,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040848506",
+    "secondsDelay": 29.417,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000173",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040990316",
+    "secondsDelay": 29.416,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 41006,
+        "gy": 28539
+      },
+      "power": 43,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": true,
+      "status": "ONTRIP",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040946813",
+    "secondsDelay": 29.416,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000191"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040898881",
+    "secondsDelay": 29.418,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 67,
+      "locked": true,
+      "speedMode": "NORMAL"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041008993",
+    "secondsDelay": 29.415,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE",
+      "cableLocked": false,
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040891324",
+    "secondsDelay": 29.414,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 73,
+      "locked": true,
+      "cableLocked": false
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040867894",
+    "secondsDelay": 29.415,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 100,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040990357",
+    "secondsDelay": 29.414,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40999,
+        "gy": 28776
+      },
+      "power": 92,
+      "locked": true,
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000207"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040890904",
+    "secondsDelay": 29.412,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28771
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041012938",
+    "secondsDelay": 29.416,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000190"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041010163",
+    "secondsDelay": 29.41,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": true,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040899970",
+    "secondsDelay": 29.409,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040888924",
+    "secondsDelay": 29.41,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40999,
+        "gy": 28776
+      },
+      "power": 100,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040897875",
+    "secondsDelay": 29.409,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041010759",
+    "secondsDelay": 29.407,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 15,
+      "locked": false,
+      "cableLocked": false,
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040979848",
+    "secondsDelay": 29.408,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040910785",
+    "secondsDelay": 29.415,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040975309",
+    "secondsDelay": 29.407,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000211"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040975424",
+    "secondsDelay": 29.406,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40990,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040975341",
+    "secondsDelay": 29.405,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 86,
+      "locked": true,
+      "speedMode": "NORMAL"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040981497",
+    "secondsDelay": 29.406,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 71,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false,
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040982016",
+    "secondsDelay": 29.405,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false,
+      "status": "FREE-MODE",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040900158",
+    "secondsDelay": 29.404,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040979731",
+    "secondsDelay": 29.408,
+    "scooterInfo": {
+      "status": "AVAILABLE",
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 100,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040867654",
+    "secondsDelay": 29.403,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": true,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041016541",
+    "secondsDelay": 29.406,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE",
+      "cableLocked": false,
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040980838",
+    "secondsDelay": 29.403,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 87,
+      "locked": true,
+      "speedMode": "NORMAL"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040979830",
+    "secondsDelay": 29.402,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": true,
+      "speedMode": "NORMAL",
+      "status": "FREE-MODE",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040979566",
+    "secondsDelay": 29.401,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 100,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041008811",
+    "secondsDelay": 29.403,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040941459",
+    "secondsDelay": 29.4,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 24,
+      "locked": false,
+      "cableLocked": false,
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041003085",
+    "secondsDelay": 29.4,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "cableLocked": false,
+      "status": "MAINTENANCE",
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000242",
+      "trip": null
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040916998",
+    "secondsDelay": 29.399,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 100,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": true
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040940113",
+    "secondsDelay": 29.398,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40999,
+        "gy": 28776
+      },
+      "power": 100,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040979939",
+    "secondsDelay": 29.404,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40990,
+        "gy": 28770
+      },
+      "power": 87,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041004125",
+    "secondsDelay": 29.404,
+    "scooterInfo": {
+      "status": "AVAILABLE",
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833040862606",
+    "secondsDelay": 29.4,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40999,
+        "gy": 28776
+      },
+      "power": 100,
+      "locked": true,
+      "cableLocked": false,
+      "speedMode": "NORMAL",
+      "status": "AVAILABLE"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041007375",
+    "secondsDelay": 29.404,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 100,
+      "locked": true,
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "speedMode": "NORMAL",
+      "bluetoothMacAddress": "0K211124000246"
+    }
+  },
+  {
+    "result": "DISCONNECTED",
+    "imei": "866833041016442",
+    "secondsDelay": 29.405,
+    "scooterInfo": {
+      "gPos": {
+        "gx": 40989,
+        "gy": 28770
+      },
+      "power": 0,
+      "locked": true,
+      "speedMode": "NORMAL",
+      "cableLocked": false,
+      "status": "AVAILABLE",
+      "trip": null
+    }
+  }
+]
